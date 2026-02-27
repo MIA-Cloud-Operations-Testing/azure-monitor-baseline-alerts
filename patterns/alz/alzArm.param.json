@@ -69,7 +69,7 @@
       "value": "/subscriptions/be265ac6-f3da-4376-9f58-cc9557ca3cd5/resourcegroups/rg-amba-monitoring-001/providers/Microsoft.ManagedIdentity/userAssignedIdentities/id-amba-sandbox-001"
     },
     "userAssignedManagedIdentityName": {
-      "value": "id-amba-prod-001"
+      "value": "id-amba-sandbox-001"
     },
     "managementSubscriptionId": {
       "value": ""
