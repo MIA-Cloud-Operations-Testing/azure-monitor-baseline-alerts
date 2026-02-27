@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
