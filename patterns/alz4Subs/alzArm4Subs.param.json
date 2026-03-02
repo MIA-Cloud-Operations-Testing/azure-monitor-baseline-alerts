@@ -2900,7 +2900,7 @@
           "value": "true"
         },
         "VMPercentCPUThreshold": {
-          "value": "85"
+          "value": "90"
         },
         "VMPercentCPUOperator": {
           "value": "GreaterThan"
