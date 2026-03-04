@@ -15,34 +15,34 @@
       "value": "Yes"
     },
     "enableAMBAServiceHealth": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBANotificationAssets": {
       "value": "Yes"
     },
     "enableAMBAHybridVM": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAKeyManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBALoadBalancing": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBANetworkChanges": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBARecoveryServices": {
       "value": "Yes"
     },
     "enableAMBAStorage": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAVM": {
       "value": "Yes"
     },
     "enableAMBAWeb": {
-      "value": "Yes"
+      "value": "No"
     },
     "telemetryOptOut": {
       "value": "No"
@@ -2768,7 +2768,7 @@
           "value": "00:10:00"
         },
         "VMOSDiskReadLatencyPolicyEffect": {
-          "value": "deployIfNotExists"
+          "value": "disabled"
         },
         "VMOSDiskReadLatencyAlertState": {
           "value": "true"
