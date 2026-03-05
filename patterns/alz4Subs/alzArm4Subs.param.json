@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "topLevelSubscriptionId": {
-      "value": "be265ac6-f3da-4376-9f58-cc9557ca3cd5"
+      "value": "e00cd1d1-184d-44cc-8ad3-7d2bb384aa29"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -15,46 +15,46 @@
       "value": "Yes"
     },
     "enableAMBAServiceHealth": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBANotificationAssets": {
       "value": "Yes"
     },
     "enableAMBAHybridVM": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAKeyManagement": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBALoadBalancing": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBANetworkChanges": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBARecoveryServices": {
       "value": "Yes"
     },
     "enableAMBAStorage": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAVM": {
       "value": "Yes"
     },
     "enableAMBAWeb": {
-      "value": "No"
+      "value": "Yes"
     },
     "telemetryOptOut": {
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
-      "value": "/subscriptions/be265ac6-f3da-4376-9f58-cc9557ca3cd5/resourcegroups/rg-amba-monitoring-001/providers/Microsoft.ManagedIdentity/userAssignedIdentities/id-amba-monitoring-001"
+      "value": ""
     },
     "userAssignedManagedIdentityName": {
-      "value": "id-amba-monitoring-001"
+      "value": ""
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
@@ -1916,7 +1916,7 @@
           "value": "true"
         },
         "AATotalJobAlertThreshold": {
-          "value": "33"
+          "value": "20"
         },
         "RVBackupHealthMonitorPolicyEffect": {
           "value": "modify"
@@ -2768,7 +2768,7 @@
           "value": "00:10:00"
         },
         "VMOSDiskReadLatencyPolicyEffect": {
-          "value": "disabled"
+          "value": "deployIfNotExists"
         },
         "VMOSDiskReadLatencyAlertState": {
           "value": "true"
@@ -2900,7 +2900,7 @@
           "value": "true"
         },
         "VMPercentCPUThreshold": {
-          "value": "92"
+          "value": "85"
         },
         "VMPercentCPUOperator": {
           "value": "GreaterThan"
